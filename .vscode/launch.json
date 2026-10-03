@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/pravi/Downloads/EW Skills",
-      "program": "c:/Users/pravi/Downloads/EW Skills/build/Debug/outDebug",
+      "cwd": "f:/EW Skills",
+      "program": "f:/EW Skills/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
